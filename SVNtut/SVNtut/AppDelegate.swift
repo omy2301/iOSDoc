@@ -17,6 +17,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     ///i am learning swift
     ///please coporate inside file
     /////ios developer at om
+    
+ ///change the way
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
